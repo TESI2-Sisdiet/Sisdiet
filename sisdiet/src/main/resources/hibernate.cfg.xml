@@ -12,7 +12,7 @@
   <property name="hibernate.show_sql">true</property>
   <mapping class="entity.Alimentos"/>
   <mapping class="entity.GerenciaDieta"/>
-  <mapping class="entity.ItemDieta"/>
+  <mapping class="entity.Dieta"/>
   <mapping class="entity.Usuario"/>
   <mapping class="entity.UsuarioMedidas"/>
  </session-factory>
